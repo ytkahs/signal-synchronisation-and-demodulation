@@ -41,3 +41,5 @@ Key algorithms and parameters determined during the project:
   
 ## Final Output
 The decoded binary stream reconstructed a clearer image of a **Tiger** (128x128).
+
+![Final_Output](tigre.png)
